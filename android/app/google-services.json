@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "737520080464",
+    "project_id": "kooliapp-8a6eb",
+    "storage_bucket": "kooliapp-8a6eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737520080464:android:163681ec42bdb1baffa355",
+        "android_client_info": {
+          "package_name": "com.example.kooli_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737520080464-vqlibeb4bokf7v99qje7ltvcrub16sm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDBcnFlNHG0oJ0wgTAzcvA10GhecQyL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737520080464-vqlibeb4bokf7v99qje7ltvcrub16sm3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737520080464-p0vbdji2i08nphc56puvufoks539as48.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kooliApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
